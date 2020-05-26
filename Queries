@@ -1,2 +1,2 @@
 
-sp_help 'TableName' -- List Relevant details such as constraints
+sp_help 'TableName' -- List Relevant details such as constraints and references from other tables
